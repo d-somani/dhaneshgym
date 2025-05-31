@@ -20,3 +20,7 @@ A membership management program
 - System Customization (Logo, Currency)
 - Responsive UI (Bootstrap 4)
 
+
+to run this you can take help from this video 
+https://youtu.be/qU6pNXV-glc?feature=shared
+
